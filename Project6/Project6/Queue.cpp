@@ -18,6 +18,9 @@
 //		cout << "=";
 //	}
 //	cout << endl;
+
+
+// bbbb
 //
 //	Spooler st;
 //
