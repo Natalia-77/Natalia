@@ -18,9 +18,15 @@
     <ClCompile Include="Builder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Wocabulary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Builder.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wocabulary.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
