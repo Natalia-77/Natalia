@@ -123,10 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Bridge.cpp" />
     <ClCompile Include="Builder.cpp" />
     <ClCompile Include="Wocabulary.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BridgeTel.h" />
     <ClInclude Include="Builder.h" />
     <ClInclude Include="Wocabulary.h" />
   </ItemGroup>

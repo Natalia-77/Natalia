@@ -21,12 +21,18 @@
     <ClCompile Include="Wocabulary.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bridge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Builder.h">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="Wocabulary.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BridgeTel.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
