@@ -35,7 +35,7 @@ public:
 		cout << this->_material << endl;
 	}
 };
-class Factory
+class Factory//
 {
 
 	typedef map< Block*,string > Blocks;
