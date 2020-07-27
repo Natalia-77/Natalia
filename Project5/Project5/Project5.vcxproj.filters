@@ -24,6 +24,9 @@
     <ClCompile Include="Bridge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Flyweight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Builder.h">
@@ -33,6 +36,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="BridgeTel.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Flyweight.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
