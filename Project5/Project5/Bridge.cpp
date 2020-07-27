@@ -3,7 +3,7 @@
 
 void main()
 {
-
+	//------Hello Mars!!!
 	HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
 	TelephoneBook* h = new HardBook();
 	
