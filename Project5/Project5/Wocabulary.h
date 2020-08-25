@@ -1,31 +1,16 @@
-#pragma once
+//#pragma once
+//
+//
+//#include <iostream>
+//#include <fstream>
+//#include <string>
+//#include <sstream>
+//#include<iomanip>
+//#include <windows.h>
+//#include <conio.h>
+//using namespace std;
 
 
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <sstream>
-#include<iomanip>
-#include <windows.h>
-#include <conio.h>
-using namespace std;
-
-
-
-class Student {
-	string surname;
-	string faculty;
-	int age;
-
-public:
-	Student() {};
-	Student(string s, string f, int a)
-	{
-		surname = s;
-		faculty = f;
-		age = a;
-	}
-};
 
 
 

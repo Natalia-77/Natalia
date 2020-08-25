@@ -127,6 +127,7 @@
     <ClCompile Include="Builder.cpp" />
     <ClCompile Include="Flyweight.cpp" />
     <ClCompile Include="Initializer_list.cpp" />
+    <ClCompile Include="Mediator.cpp" />
     <ClCompile Include="Wocabulary.cpp" />
   </ItemGroup>
   <ItemGroup>
