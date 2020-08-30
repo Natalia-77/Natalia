@@ -47,5 +47,8 @@
     <ClInclude Include="Flyweight.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Mediator.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
