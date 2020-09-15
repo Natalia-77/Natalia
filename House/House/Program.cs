@@ -7,12 +7,12 @@ namespace House
     public enum MaterialBasement { Tape, Сolumnar, Slabs, Field };
     public enum MaterialWindow { Wood, Plastic, Glass };
 
-    interface IPart
+    interface IPart   
     {
         string GetName { get; }        
     }
 
-    interface IWorker
+    interface IWorker 
     {
 
 
